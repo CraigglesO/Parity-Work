@@ -69,7 +69,7 @@ class App extends Component {
     this.security_anim = bodymovin.loadAnimation({
       container: animation, // the dom element
       renderer: 'svg',
-      loop: true,
+      loop: false,
       autoplay: false,
       animationData: which // the animation data
     });
