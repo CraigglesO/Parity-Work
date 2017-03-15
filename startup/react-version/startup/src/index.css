@@ -4,4 +4,5 @@ body {
   font-family: sans-serif;
   background-color: #535763 !important;
   color: #D9DDE7;
+  transition: all 0.3s ease;
 }
