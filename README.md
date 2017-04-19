@@ -4,18 +4,10 @@
 ## SKETCHES
 
 
-### Parity
+### Signup
 
-![parity](https://github.com/CraigglesO/Parity-Work/blob/master/parity.gif)
+![parity](https://github.com/CraigglesO/Parity-Work/blob/master/signup.gif)
 
-### Accounts
+### Switch
 
-![accounts](https://github.com/CraigglesO/Parity-Work/blob/master/accounts.gif)
-
-### Token
-
-![token](https://github.com/CraigglesO/Parity-Work/blob/master/token.gif)
-
-### Security
-
-![security](https://github.com/CraigglesO/Parity-Work/blob/master/security.gif)
+![accounts](https://github.com/CraigglesO/Parity-Work/blob/master/switch.gif)
